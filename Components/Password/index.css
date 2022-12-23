@@ -1,0 +1,44 @@
+.password-item {
+  border: 1px solid #c3caea;
+  width: 200px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px 10px 10px 0px;
+  border-radius: 5px;
+  margin: 10px;
+}
+.password-item * {
+  margin: 0px;
+}
+.icon-container {
+  background-color: #f59e0b;
+  padding: 8px 12px;
+  border-radius: 50%;
+}
+.icon {
+  color: white;
+  font-size: 14px;
+}
+.website-name {
+  color: white;
+  font-size: 18px;
+}
+.password {
+  color: white;
+  margin-top: 8px;
+  font-size: 10px;
+}
+.password-img {
+  height: 10px;
+}
+.delete-btn {
+  background-color: transparent;
+  border-width: 0px;
+  cursor: pointer;
+  outline: none;
+}
+.delete-img {
+  height: 17px;
+  margin-left: 5px;
+}
